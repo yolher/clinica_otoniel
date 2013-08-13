@@ -13,7 +13,7 @@
 	<script src="js/jquery.transit.min.js"></script>
 	<script src="js/script.js"></script>
 	<script src="js/submenu.js"></script>
-
+<!-- Actalizacion 12:59 -->
 </head>
 <body>
 <header>
